@@ -3,6 +3,8 @@
 
 > Webpack Fast Start
 
+https://github.com/erickzhao/static-html-webpack-boilerplate
+
 <picture>
        <img width="300" alt="" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png">
     </picture>
