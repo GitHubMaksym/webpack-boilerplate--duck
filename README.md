@@ -3,6 +3,7 @@
 
 > Webpack Fast Start
 
+### `Static HTML Webpack Boilerplate`
 https://github.com/erickzhao/static-html-webpack-boilerplate
 
 <picture>
